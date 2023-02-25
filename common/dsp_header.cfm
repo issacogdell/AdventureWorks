@@ -54,7 +54,7 @@
                   </li>
                   <li class="nav-item mx-3">
                     <a class="nav-link" href="/suppliers/index.cfm?fuseaction=ViewSuppliers&showSuppliers
-                    =all">Customers</a>
+                    =all">Suppliers</a>
                   </li>
                 </ul>
               </div>
