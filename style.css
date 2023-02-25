@@ -1,0 +1,112 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.container{
+    margin-bottom: 70px;
+}
+.bg-pink{
+    border-radius: 10px;
+    background-color: #FEEAE9;
+}
+.bg-pink p{
+    color: gray;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+
+.buy-now-button{
+    padding: 10px 20px;
+    color: #ffffff;
+    background-image: linear-gradient(180deg, #ff589b, #ff136f);
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.buy-now-button:hover{
+    background-image: linear-gradient(180deg, #ff0062, #ff0062);
+    box-shadow: 0px 0px 5px gray;
+}
+.price{
+    color: #FF136F;
+}
+.categories a{
+    text-decoration: none;
+    color: #ffffff;
+}
+.categories img{
+    width: 100px;
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.cat1{
+    background-image: linear-gradient(90deg, tomato, orange);
+}
+.cat2{
+    background-image: linear-gradient(90deg, blue, cyan);
+}
+.cat3{
+    background-image: linear-gradient(90deg, hotpink, pink);
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+    border: none;
+}
+.subscribe{
+    height: 300px;
+    
+}
+
+.title {
+    color: #ff589b;
+}
+
+.table-custom {
+    background-color: #ff589b45;
+}
+
+.action-btn {
+    width: 30px;
+    height: 30px;
+    padding: 2px;
+    border-radius: 3px;
+    color: #fff;
+    cursor: pointer;
+    transition: background-color 0.2s ease-in-out;
+}
+
+.action-btn:hover {
+    transition: background-color 0.2s ease-in-out;
+}
+
+
+.view-btn {
+    background-color: #58bfffb5;
+}
+
+.view-btn:hover {
+    background-color: #58bfff;
+}
+
+.edit-btn {
+    background-color: #58ff58b5;
+}
+
+.edit-btn:hover {
+    background-color: #58ff58;
+}
+
+
+.delete-btn {
+    background-color: #ff6358b5;
+}
+
+.delete-btn:hover {
+    background-color: #ff6358;
+}
